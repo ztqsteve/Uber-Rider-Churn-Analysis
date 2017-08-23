@@ -1,1 +1,1 @@
-# Uber-Rider-Churn-Case-Study
+# Uber Rider Churn Case Study
