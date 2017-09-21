@@ -1,4 +1,4 @@
-# Uber Rider Churn Case Study
+# Uber Rider Churn Analysis
 ## Project Overview
 Uber is interested in predicting rider retention. To help explore this question, they have provided a sample dataset of a cohort of users who signed up for an account in January 2014. The data was pulled several months later. 
 ## Dataset Description
